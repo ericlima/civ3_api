@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  processoassunto_id: 
+  nome: MyString
+  descricao: MyText
+  responsavel_id: 
+  assunto_id: 
+  itemtipo_id: 
+  itemmodo_id: 
+
+two:
+  processoassunto_id: 
+  nome: MyString
+  descricao: MyText
+  responsavel_id: 
+  assunto_id: 
+  itemtipo_id: 
+  itemmodo_id: 

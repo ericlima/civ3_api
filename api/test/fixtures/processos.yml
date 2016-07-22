@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nomero: 1
+  orgao_id: 
+  ano: 1
+  responsavel_id: 
+
+two:
+  nomero: 1
+  orgao_id: 
+  ano: 1
+  responsavel_id: 

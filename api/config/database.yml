@@ -1,0 +1,23 @@
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  pool: 5
+  username: postgres
+  password: 1234
+  host: 127.0.0.1
+
+development:
+  <<: *default
+  database: geosiap_development
+
+test:
+  <<: *default
+  database: geosiap_test
+
+staging:
+  <<: *default
+  database: <%= ENV['DATABASE'] %>
+
+production:
+  <<: *default
+  database: <%= ENV['DATABASE'] %>

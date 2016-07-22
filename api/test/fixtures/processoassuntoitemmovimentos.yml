@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  processoassuntoitem_id: 
+  descricao: MyText
+  datasolicitacao: 2016-06-01 15:52:22
+  dataatendimento: 2016-06-01 15:52:22
+  responsavel_id: 
+
+two:
+  processoassuntoitem_id: 
+  descricao: MyText
+  datasolicitacao: 2016-06-01 15:52:22
+  dataatendimento: 2016-06-01 15:52:22
+  responsavel_id: 

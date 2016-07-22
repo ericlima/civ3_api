@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nome: MyString
+  grupoassunto_id: 
+  responsavel_id: 
+  prazoqtd: 1
+  prazotipo: MyString
+
+two:
+  nome: MyString
+  grupoassunto_id: 
+  responsavel_id: 
+  prazoqtd: 1
+  prazotipo: MyString
